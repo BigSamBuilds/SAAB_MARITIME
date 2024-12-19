@@ -1,4 +1,3 @@
-```markdown
 # SAAB Maritime
 
 ![SAAB Maritime Logo](Resources/SAABMARITIME.png)
@@ -88,8 +87,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the contributors and the community for their support.
 
 Feel free to reach out if you have any questions or need further assistance!
-```
-
-### Notes:
-- Make sure that the image file `SAABMARITIME.png` is located in the `Resources` folder of your project for the logo to display correctly.
-- The logo will be displayed at the top of the README, providing a visual representation of your project.
