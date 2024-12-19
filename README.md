@@ -1,6 +1,8 @@
 # SAAB Maritime
 
-<img src="SAAB%20MARITIME/Resources/SAABMARITIME.png" alt="SAAB Maritime Logo" width="300" height="300">
+<div style="text-align: center;">
+   <img src="SAAB%20MARITIME/Resources/SAABMARITIME.png" alt="SAAB Maritime Logo" width="300" height="300">
+</div>
 
 Welcome to the SAAB Maritime project! This project is designed to update and track ship positions using AIS (Automatic Identification System) data. The application is structured using the MVC (Model-View-Controller) pattern, although the view component is not included. The program runs as a simple C# console application in Visual Studio.
 
