@@ -39,7 +39,8 @@ SAAB MARITIME
 ### Prerequisites
 
 - Visual Studio (2019 or later)
-- .NET SDK (version compatible with the project)
+- .NET SDK (version 8.0)
+- SQLite (for database access)
 
 ### Cloning the Repository
 
