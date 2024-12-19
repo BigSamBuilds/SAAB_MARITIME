@@ -26,7 +26,8 @@ SAAB MARITIME
 │   ├── Vessel.cs
 │   └── VesselTrackingCalculator.cs
 ├── Resources
-│   └── SAABMARITIME.png
+│   ├── SAABMARITIME.png
+│   └── Databse.db ( The database is excluded )
 ├── Program.cs
 ├── SAAB MARITIME.csproj
 ├── SAAB MARITIME.sln
@@ -76,12 +77,6 @@ The database is not included in this repository. You can download the required d
 
 3. Build the solution to restore any dependencies.
 4. Run the application by pressing `F5` or clicking on the "Start" button in Visual Studio.
-
-### Explanation:
-- In step 2, I added a note about ensuring the necessary dependencies, specifically mentioning SQLite and .NET Core 8.0.
-- I included a command to install the SQLite NuGet package, which is commonly used for SQLite database access in .NET applications.
-
-This should provide clear instructions for users to set up the required dependencies before running the application.
 
 ### Example Usage
 
