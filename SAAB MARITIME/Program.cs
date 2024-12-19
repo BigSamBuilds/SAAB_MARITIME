@@ -15,7 +15,7 @@ namespace SAAB_Maritime
             double minLong = -180.0;
             double maxLat = 90.0;
             double maxLong = 180.0;
-            string databasePath = "Resources\\2024-04-12_00_00_00-23_59_59_AIS_DATA.db"; // change as such where is you data
+            private string DatabasePath = "..\\..\\Resources\\2024-04-12_00_00_00-23_59_59_AIS_DATA.db"; // change as such where is you data
 
             // Set start and end dates
             DateTime startDate = new DateTime(2022, 1, 1); // Start date in 2022
