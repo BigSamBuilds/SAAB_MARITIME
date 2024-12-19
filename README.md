@@ -68,8 +68,20 @@ The database is not included in this repository. You can download the required d
 ### Running the Application
 
 1. Open the solution file `SAAB MARITIME.sln` in Visual Studio.
-2. Build the solution to restore any dependencies.
-3. Run the application by pressing `F5` or clicking on the "Start" button in Visual Studio.
+2. Ensure that you have the necessary dependencies installed, including SQLite and .NET Core 8.0. You can install the SQLite NuGet package by running the following command in the Package Manager Console:
+
+   ```bash
+   Install-Package Microsoft.Data.Sqlite
+   ```
+
+3. Build the solution to restore any dependencies.
+4. Run the application by pressing `F5` or clicking on the "Start" button in Visual Studio.
+
+### Explanation:
+- In step 2, I added a note about ensuring the necessary dependencies, specifically mentioning SQLite and .NET Core 8.0.
+- I included a command to install the SQLite NuGet package, which is commonly used for SQLite database access in .NET applications.
+
+This should provide clear instructions for users to set up the required dependencies before running the application.
 
 ### Example Usage
 
